@@ -3,7 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-
-This is the initial mark of my learning
+Welcome to New learning slide
 
 Use the left arrow to go back!
